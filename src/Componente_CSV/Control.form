@@ -136,7 +136,7 @@
           <SubComponents>
             <Component class="javax.swing.JLabel" name="jLabel1">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Mostrar n&#xb0; de Columnas:"/>
+                <Property name="text" type="java.lang.String" value="Mostrar N&#xb0; de Filas:"/>
               </Properties>
             </Component>
             <Component class="javax.swing.JTextField" name="TxtNumFilas">

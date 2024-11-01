@@ -85,7 +85,7 @@ public class Control extends javax.swing.JPanel {
 
         panelNavegacion.setBackground(new java.awt.Color(153, 153, 255));
 
-        jLabel1.setText("Mostrar n° de Columnas:");
+        jLabel1.setText("Mostrar N° de Filas:");
 
         TxtNumFilas.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyPressed(java.awt.event.KeyEvent evt) {
