@@ -47,10 +47,18 @@ Este componente está diseñado para ser integrado en aplicaciones donde se requ
 4. En la parte inferior, puedes usar la paginación para moverte entre páginas del archivo.
 
 ### Uso
-
-1. Añadir el `.jar` del componente a los proyectos donde se desea utilizar.
-2. Seguir el flujo de uso del componente para una ejecución fácil y sencilla.
-3. La ventana principal muestra:
+1. Añadir el JAR.
+   ![Descripción de la imagen](https://github.com/Esme23-78/Componente/raw/main/src/Componente_CSV/Imagenes_Readme/1.png)
+2. Añadir el `.jar` del componente a los proyectos donde se desea utilizar.
+   ![Descripción de la imagen](https://github.com/Esme23-78/Componente/raw/main/src/Componente_CSV/Imagenes_Readme/2.png)
+3. Seguir el flujo de uso del componente para una ejecución fácil y sencilla.
+   ![Descripción de la imagen](https://github.com/Esme23-78/Componente/raw/main/src/Componente_CSV/Imagenes_Readme/3.png)
+   
+   ![Descripción de la imagen](https://github.com/Esme23-78/Componente/raw/main/src/Componente_CSV/Imagenes_Readme/3_1.png)
+   
+   ![Descripción de la imagen](https://github.com/Esme23-78/Componente/raw/main/src/Componente_CSV/Imagenes_Readme/4.png)
+5. La ventana principal muestra:
+   ![Descripción de la imagen](https://github.com/Esme23-78/Componente/raw/main/src/Componente_CSV/Imagenes_Readme/5.png)
    - El número de filas predeterminado (5).
    - Opción para cambiar el número de registros mostrados.
    - Paginación y número de página actual, además del total de registros en el CSV.
